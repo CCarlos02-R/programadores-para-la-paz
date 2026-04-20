@@ -1,0 +1,10 @@
+Pregunta 4:
+Respuesta: 
+Manejar bien la información en internet y usar Git tienen mucho en común.
+Todo se resume en ser conscientes de lo que compartimos y cómo lo organizamos. 
+Como ciudadanos, tener criterio para filtrar noticias falsas nos permite 
+participar y opinar con sentido, evitando caer en la desinformación que afecte nuestras decisiones. 
+En el lado técnico, herramientas como Git nos piden esa misma claridad: ser ordenados, documentar bien cada paso y trabajar en equipo 
+sin generar enredos innecesarios. Al final, la clave en ambos mundos es la responsabilidad. 
+Si eres cuidadoso con los datos y transparente con los procesos, ya sea en un repositorio de código o en una red social, 
+logras que tanto tus proyectos profesionales como tu entorno social funcionen de manera mucho más fluida, coherente y profesional.
