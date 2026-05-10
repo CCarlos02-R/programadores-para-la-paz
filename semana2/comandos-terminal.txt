@@ -1,0 +1,9 @@
+Comandos que utilice 
+cd
+mkdir
+COPY CON preguntas-semana2.txt
+Ctrl+z
+COPY CON comandos-terminal.txt
+Ctrl+z
+COPY CON reflexión-semana2.txt
+Ctrl+z
