@@ -1,1 +1,8 @@
-Llevar un registro de cambios con Git es clave porque le da estructura y sentido a todo el desarrollo de un proyecto. M†s que solo guardar archivos, nos permite rastrear la evoluci¢n del c¢digo, entendiendo el porquÇ de cada decisi¢n y quiÇn estuvo a cargo de cada ajuste. Esto nos da la seguridad de poder revertir fallos r†pidamente o encontrar el punto exacto donde algo se rompi¢ sin perder tiempo. Adem†s, funciones como las ramas y los pull requests hacen que colaborar en equipo sea mucho m†s fluido y organizado, evitando que el trabajo de uno pise el del otro.
+Llevar un registro de cambios con Git es clave porque le da estructura y sentido a todo el desarrollo de un proyecto. 
+Mas que solo guardar archivos, nos permite rastrear la evoluci√≥n del c√≥digo, 
+entendiendo el porque‚Äö de cada decisi√≥n y qui√©n estuvo a cargo de cada ajuste. 
+Esto nos da la seguridad de poder revertir fallos rapidamente o 
+encontrar el punto exacto donde algo se rompi√≥ sin perder tiempo. 
+Adem√°s, funciones como las ramas y los pull requests hacen que 
+colaborar en equipo sea mucho m√°s fluido y organizado, 
+evitando que el trabajo de uno pise el del otro.
