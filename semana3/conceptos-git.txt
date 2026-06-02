@@ -1,0 +1,3 @@
+Repositorio: son espacios digitales donde se almacenan tus proyectos. Almacenan archivos, realizan un seguimiento de los cambios y facilitan la colaboraci¢n con otras personas. Puedes ver qu‚ ha cambiado, qui‚n ha realizado el cambio y por qu‚.
+commit: sirven como hitos en la historia de un proyecto, aclarando qu‚ cambios se hicieron, por qu‚ eran necesarios y cu ndo se implementaron.
+Push:  se utiliza para transferir o subir la confirmaci¢n, que se crea en una rama local en tu ordenador para un repositorio remoto como GitHub.
