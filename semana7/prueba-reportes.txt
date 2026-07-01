@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve todos los reportes registrados en el arreglo reportes. Después de enviar información mediante la ruta POST, los reportes aparecen en formato JSON con su id, tipo y descripción. Si el servidor se reinicia, los reportes desaparecen porque se almacenan únicamente en memoria.
